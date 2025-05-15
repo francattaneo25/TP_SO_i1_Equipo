@@ -12,3 +12,6 @@ d-Usando los "git commits"
 
 Gamma: Federico Villegas
 
+e - Las unicas dos formas de comunicarse por Github es por medio de los commits y projects:
+-Comitts: Registrar cada uno de los cambios dentro del proyecto.
+-Project: Division de tareas y actualizacion de estado de las tareas.
