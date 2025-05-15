@@ -7,5 +7,8 @@ b-Si, con push y pull
 
 Beta: Santiago Fabiano
 
+c-Si, lo podemos ver usando "git pull/git push"
+d-Usando los "git commits"
+
 Gamma: Federico Villegas
 
