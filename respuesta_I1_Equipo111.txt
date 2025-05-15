@@ -1,5 +1,10 @@
 Alpha: Francisco Cattaneo
 
+ALFA sube las respuestas a- y b-
+
+a-Si, cada uno con sus commits
+b-Si, con push y pull
+
 Beta: Santiago Fabiano
 
 Gamma: Federico Villegas
